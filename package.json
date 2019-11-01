@@ -1,0 +1,11 @@
+{
+  "name": "miprimerapi",
+  "version": "1.0.0",
+  "description": "En este paqueta vamos a crear nuestra primera api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacqueline barajas",
+  "license": "ISC"
+}
